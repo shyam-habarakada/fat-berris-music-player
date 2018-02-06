@@ -1,0 +1,1 @@
+electron-packager --platform darwin --electron-version 1.4.13 --appBundleId shyamh-fat-berris-music-player --appCategoryType public.entertainment.music --icon images/icon.icns --overwrite --appCopyright 'twitter.com/shyamh' --name 'Fat Berris Music Player' . 'Fat Berris Music Player'

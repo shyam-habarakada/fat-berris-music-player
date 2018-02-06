@@ -1,0 +1,8 @@
+{
+  "name": "shyamh-fat-berris-player",
+  "version": "0.1.0",
+  "main": "main.js",
+  "dependencies": {
+    "wine": "0.0.3"
+  }
+}
